@@ -1,14 +1,14 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm a Data Scientist</h1>
 <h3 align="center">Data Science | Machine Learning | Analytics | GenAI (LLMs)</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shubhamnikam97&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/shubhamnikam97?label=Followers&style=flat" />
 </p>
 
 ---
@@ -44,8 +44,8 @@
   - AdaBoost, SVM, Naive Bayes  
   - K-Means Clustering  
 - Model Evaluation:
-  - RMSE, MAE, Accuracy, R²  
-  - Confusion Matrix  
+  - RMSE, MAE, R²  
+  - Confusion Matrix, Accuracy
 - Hyperparameter tuning: **GridSearchCV**
 
 <p>
@@ -124,18 +124,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamnikam97&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamnikam97&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 <p>
+  <!--
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  -->
+  <a href="mailto:shubhamnikam.srn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
