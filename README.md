@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm a Data Scientist</h1>
+<h1 align="center">Hi 👋, I'm a Shubham Nikam</h1>
 <h3 align="center">Data Science | Machine Learning | Analytics | GenAI (LLMs)</h3>
 
 <p align="center">
@@ -113,13 +113,13 @@
 - 🎓 **Advanced SQL: MySQL for Ecommerce Data Analysis** – Udemy  
 
 ---
-
+<!--
 ## 🎓 Education
 - **B.Tech in Mechanical Engineering (2019)**  
   SGGS Institute of Engineering & Technology, Nanded  
 - **HSC (2015)** – Bharat Junior College, Buldhana  
 - **SSC (2013)** – Bharat Vidyalaya, Buldhana  
-
+-->
 ---
 
 ## 📊 GitHub Stats
@@ -141,6 +141,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+**shubhamnikam.srn@gmail.com**
 
 ---
 
