@@ -35,6 +35,18 @@
 </p>
 
 ---
+## 🧠 NLP & Deep Learning
+
+- Tokenization, Embeddings  
+- ANN, RNN, Encoder–Decoder  
+- Self-Attention, Transformers  
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-blue?style=flat-square)
+
+
+---
 
 ### 📈 Data Science & Machine Learning
 - Data preprocessing, feature engineering & selection  
@@ -112,21 +124,24 @@
 - 🎓 **Microsoft Power BI Desktop for Business Intelligence** – Udemy  
 - 🎓 **Advanced SQL: MySQL for Ecommerce Data Analysis** – Udemy  
 
----
+
 <!--
+---
+
 ## 🎓 Education
 - **B.Tech in Mechanical Engineering (2019)**  
   SGGS Institute of Engineering & Technology, Nanded  
 - **HSC (2015)** – Bharat Junior College, Buldhana  
 - **SSC (2013)** – Bharat Vidyalaya, Buldhana  
--->
+
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamnikam97&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamnikam97&layout=compact&theme=tokyonight"/>
+## 📊 GitHub Stats 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamnikam97&show_icons=true&theme=tokyonight"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamnikam97&layout=compact&theme=tokyonight"/> 
 </p>
+-->
 
 ---
 
